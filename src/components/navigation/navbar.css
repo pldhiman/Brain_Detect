@@ -1,0 +1,13 @@
+.back{
+  /* position: absolute; */
+  width: 100px;
+  height: 120px;
+  background-color: rgba(100,0,0,0.2);
+  border-radius: 3px;
+  top: 10px;
+  right: 10px;
+
+}
+.img{
+  z-index: 100;
+}
